@@ -1,15 +1,15 @@
-# Algorithm 1 README
+## Algorithm 1 README
 
-## Overview / Description
+Overview / Description
 This algorithm receives:
 - `n`: the number of black (and white) disks in the list.
 - `disks`: a list containing `'black'` or `'white'` alternating in order.
 
-The algorithm organizes the disks so that **all black disks are on the left** and **all white disks are on the right**, using only adjacent swaps.
+The algorithm organizes the disks so that using only side to side swaps.
 
 ## Installation / Setup
 Need:
-- Python installed on your computer (any version ≥3.x).
+- Python installed on your computer
 - An IDE or online editor to run Python code.
 
 ## Usage / Examples
